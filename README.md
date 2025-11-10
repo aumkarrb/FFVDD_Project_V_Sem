@@ -1,4 +1,5 @@
-# FFVDD_Project_V_Sem
+# Dual Clock FIFO UVM Verification
+ - Done as part of FFVDD Elective Mini Project Assignment
 
 ## Contributors
 1. Anirudh V
