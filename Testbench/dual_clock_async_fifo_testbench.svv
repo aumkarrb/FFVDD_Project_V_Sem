@@ -924,4 +924,5 @@ module fifo_uvm_tb_top;
     `uvm_fatal("TIMEOUT", "Simulation timeout reached")
   end
   
+
 endmodule
