@@ -161,3 +161,5 @@ done
 # VSIM: Simulation has finished.
 Finding VCD file...
 ./fifo_uvm_simulation.vcd
+
+
